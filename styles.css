@@ -1,0 +1,12 @@
+* {
+  background-color: #666699;
+}
+
+#canvas1 {
+  width: 600;
+  height: 600;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
